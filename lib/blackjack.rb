@@ -58,5 +58,6 @@ def runner
     current = hit?(current)
     display_card_total(current)
   end 
+  end_game(current)
 end
     
